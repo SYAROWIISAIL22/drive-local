@@ -1,0 +1,9 @@
+.card {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-title {
+  margin-bottom: 0.5rem;
+}
